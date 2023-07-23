@@ -1,0 +1,58 @@
+.container{
+
+    
+}
+.container-fluid{
+    align-items: center;
+ 
+}
+
+.navbar-brand{
+   margin-left: 30px;
+ 
+}
+
+.section{
+ 
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin: 10px;
+}
+
+#slogan{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 20px;
+}
+
+.signin{
+   
+    right: 0px;
+    width: 300px;
+    padding: 10px;
+}
+
+
+.container-div{
+    display:flex;
+    flex-direction: row;
+    justify-content: start;
+    margin-top: 1em;
+    margin: 10px;
+}
+.carousel-inner{
+   
+}
+
+#carouselExampleIndicators{
+
+
+ width: 400px;
+ height: 200px;
+ margin: 50px;
+ outline: solid 1px black;
+ display: flex;
+ align-items: center;
+}
+
